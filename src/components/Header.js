@@ -18,7 +18,7 @@ export default function Header() {
                 <Text color={isNotSmallerScreen?'gray.100':'gray.500'} >Software Developer(HTml5, CSS3, React, Java, MySQL), Customer Representative,Yoga Teacher </Text>          
                 <Button mt={8} colorScheme="blue" onClick={()=>
                 window.open("https://docs.google.com/document/d/1tFkXvLIfXGV1z8cDiUYQp2qFLZFyWCFM/edit?usp=sharing&ouid=103895248600648240445&rtpof=true&sd=true")}            
-                >Hire meeeeeeee</Button>
+                >Hire me</Button>
                
                 </Box>
                 <Image alignSelf="center" mt={isNotSmallerScreen?"0":"12"} mb = {isNotSmallerScreen?"0":"12"} borderRadius="full"
