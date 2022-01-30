@@ -19,7 +19,7 @@ export default function Header() {
                 <Button mt={8} colorScheme="blue" onClick={()=>
                 window.open("https://docs.google.com/document/d/1tFkXvLIfXGV1z8cDiUYQp2qFLZFyWCFM/edit?usp=sharing&ouid=103895248600648240445&rtpof=true&sd=true")}            
                 >Hire me</Button>
-               {/* //test */}
+              
                 </Box>
                 <Image alignSelf="center" mt={isNotSmallerScreen?"0":"12"} mb = {isNotSmallerScreen?"0":"12"} borderRadius="full"
                 backgroundColor="transparant" boxShadow="lg" boxSize="300px" src="https://drive.google.com/uc?id=1zktwO5NM7GXhSLnt0NbrxoQTs0AvY3kD" />
